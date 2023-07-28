@@ -49,7 +49,7 @@ function Navbar({ setIsLoggedIn }) {
         style={linkStyles}
         activeStyle={{
           background: "darkblue",
-        }}
+       }}
       >
         Login
       </NavLink>
